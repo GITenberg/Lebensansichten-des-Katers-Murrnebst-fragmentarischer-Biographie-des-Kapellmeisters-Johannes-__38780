@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2008
     wikipedia: http://en.wikipedia.org/wiki/E.T.A._Hoffmann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38780#Lebensansichten-des-Katers-Murrnebst-fragmentarischer-Biographie-des-Kapellmeisters-Johannes-_
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2012-02-06'
 gutenberg_type: Text
