@@ -1,0 +1,36 @@
+_repo: Lebensansichten-des-Katers-Murrnebst-fragmentarischer-Biographie-des-Kapellmeisters-Johannes-__38780
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38780-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hoffmann, E. T. A. (Ernst Theodor Amadeus)
+    aliases:
+    - Hoffmann, Ernst Theodor Wilhelm
+    - Hoffmann, Ernst Theodor Amadeus
+    - Hoffmann, E.T.A.
+    birthdate: 1776
+    deathdate: 1822
+    gutenberg_agent_id: '2008'
+    url: http://www.gutenberg.org/2009/agents/2008
+    wikipedia: http://en.wikipedia.org/wiki/E.T.A._Hoffmann
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2012-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38780'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conductors (Music) -- Fiction'
+- !lcsh 'Cats -- Fiction'
+- !lcc 'PT'
+title: 'Lebensansichten des Katers Murr
+
+  nebst fragmentarischer Biographie des Kapellmeisters Johannes Kreisler in zufälligen
+  Makulaturblättern'
+url: http://www.gutenberg.org/ebooks/38780
